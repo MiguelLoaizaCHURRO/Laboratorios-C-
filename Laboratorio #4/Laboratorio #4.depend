@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1699407588 source:c:\users\migue\documents\programacion\c++\univalle\clase #6\laboratorio #4\src\computador.cpp
+	"Computador.h"
+	<iostream>
+
+1699406981 c:\users\migue\documents\programacion\c++\univalle\clase #6\laboratorio #4\include\computador.h
+	<iostream>
+
+1699407588 source:c:\users\migue\documents\programacion\c++\univalle\clase #6\laboratorio #4\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+
+1699407077 c:\users\migue\documents\programacion\c++\univalle\clase #6\laboratorio #4\include\usuarios.h
+	<iostream>
+
+1699407628 source:c:\users\migue\documents\programacion\c++\univalle\clase #6\laboratorio #4\main.cpp
+	<iostream>
+	<vector>
+	"Computador.h"
+	"Usuarios.h"
+
+1699408587 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #4\main.cpp
+	<iostream>
+	<vector>
+	"Computador.h"
+	"Usuarios.h"
+
+1699408587 c:\users\migue\documents\programacion\c++\univalle\laboratorio #4\include\computador.h
+	<iostream>
+
+1699408587 c:\users\migue\documents\programacion\c++\univalle\laboratorio #4\include\usuarios.h
+	<iostream>
+
+1699408587 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #4\src\computador.cpp
+	"Computador.h"
+	<iostream>
+
+1699408587 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #4\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+

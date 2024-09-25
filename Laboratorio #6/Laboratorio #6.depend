@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1701380458 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\src\pelicula.cpp
+	"Pelicula.h"
+	<iostream>
+
+1701382443 c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\include\pelicula.h
+	<iostream>
+
+1701385479 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\src\taquillero.cpp
+	"Taquillero.h"
+	<iostream>
+
+1701386124 c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\include\taquillero.h
+	<iostream>
+	"UsuarioAdmin.h"
+
+1701382443 c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\include\usuarioadmin.h
+	<iostream>
+	"Usuarios.h"
+
+1701381027 c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\include\usuarios.h
+	<iostream>
+
+1701389534 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\src\usuarioadmin.cpp
+	"UsuarioAdmin.h"
+	"Usuarios.h"
+	<iostream>
+
+1701387600 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\src\usuarionormal.cpp
+	"UsuarioNormal.h"
+	<iostream>
+
+1701387600 c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\include\usuarionormal.h
+	<iostream>
+	"Usuarios.h"
+
+1701384313 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+
+1701389867 source:c:\users\migue\documents\programacion\c++\univalle\laboratorio #6\main.cpp
+	<iostream>
+	"UsuarioAdmin.h"
+	"UsuarioNormal.h"
+	"Taquillero.h"
+	"Pelicula.h"
+
